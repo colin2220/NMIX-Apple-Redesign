@@ -1,0 +1,37 @@
+.navbar-default {
+	background-color: #666666;
+	link-color: #FFF;
+
+
+
+}
+
+@media (min-width: 768px) {
+    .navbar .navbar-nav {
+        display: inline-block;
+        float: none;
+        vertical-align: top;
+    }
+
+    .navbar .navbar-collapse {
+        text-align: center;
+    }
+}
+.navbar-nav > li{
+  padding-left:30px;
+  padding-right:30px;
+}
+.navbar-default-link-color {
+	color: #FFF;
+}
+ul.nav li a, ul.nav li a:visited {
+    color: #FFF !important;
+}
+
+ul.nav li a:hover, ul.nav li a:active {
+    color: #FFF !important;
+}
+
+ul.nav li.active a {
+    color: #FFF !important;
+}
