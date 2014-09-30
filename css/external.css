@@ -35,3 +35,28 @@ ul.nav li a:hover, ul.nav li a:active {
 ul.nav li.active a {
     color: #FFF !important;
 }
+.center-blcok { 
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+p {
+    padding-left: 430px;
+}
+
+.apple-grid {
+    background-color:#f2f2f2;text-align:center;
+    display:inline-block;
+
+}
+.p-edit {
+    padding-left: 200px;
+    font-size: 7pt;
+    color: #a5a5a5;
+
+}
+.p-edit-2{
+    padding-left: 800px;
+    padding-top: 30px;
+
+}
